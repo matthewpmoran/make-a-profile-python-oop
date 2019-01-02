@@ -31,3 +31,14 @@ In order for that code to work, you'll need to write an initializer method in ou
 <br>
 When you think you're ready to test your code, enter the command `python test.py` in terminal.
 <br><br>
+
+## Extensions
+Your user profile currently only has a name. What other traits, attributes, or information might a user have on your site?
+
+This is a pretty open-ended lab, so if you decide your social media site is a dating app for dogs, fine - your users might have some instance variables like `breed` and `fur_color`. You might go a totally different direction and create a college-matching application, in which case users might have traits like `gpa` and `grade`. The direction you go with this is up to you, but please make it a goal to include at least one instance variable for each of these four major datatypes:
+* String
+* Integer
+* Float
+* Boolean (True or False)
+
+Be sure to initialize at least three unique users for your site. We already have Nicki and Sarah above, but you'll need to make at least one more. 
