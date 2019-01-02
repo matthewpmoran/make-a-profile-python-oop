@@ -23,7 +23,7 @@ In order for that code to work, you'll need to write an initializer method in ou
 
   ```Python
   class Profile:
-    def __init__(name):
+    def __init__(self, name):
       self.name = name
   ```
 
