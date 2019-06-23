@@ -12,8 +12,8 @@ Our end goal is to be able to create profiles for individual people, and then ac
 Ultimately, we want to be able to create new profiles in our **test.py** file with lines of code that look like this:
 
 ```Python
-first_profile = Profile("Nicki")
-second_profile = Profile("Sarah")
+first_profile = profile_class.Profile("Nicki")
+second_profile = profile_class.Profile("Sarah")
 ```
 
 In order for that code to work, you'll need to write an initializer method in our **profile_class.py** file for the Profile class - otherwise, Python has no idea what to do with the string "Nicki" when you call `Profile("Nicki")`. Try to do it on your own, but if you forget, click the dropdown to see one way to do it.
