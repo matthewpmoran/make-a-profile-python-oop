@@ -1,7 +1,5 @@
 # Make a Profile class
 
-[![Run on Repl.it](https://repl.it/badge/github/upperlinecode/make-a-profile-python-oop)](https://repl.it/github/upperlinecode/make-a-profile-python-oop)
-
 ## The goal:
 
 Today, we're learning about creating instances (individual versions) of classes (Types that we use as blueprints). This will unlock a lot of power for us later, but getting a class off the ground takes a lot of work.
